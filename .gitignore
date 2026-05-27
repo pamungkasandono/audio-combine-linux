@@ -1,0 +1,11 @@
+# Binaries
+audio-combine
+audio-combine-*
+build/
+
+# IDE and Agent files
+.antigravitycli/
+.idea/
+.vscode/
+*.swp
+*~
